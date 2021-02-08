@@ -25,6 +25,13 @@ Access the webpage under "localhost:3000" in your browser and start playing a ro
 8. Confirm the round with the green button. The points are calculated and saved in the backend. An updated version of the dashboard will be delivered.
 9. Repeat steps 3-8 until the final round.
 
+# Details
+
+The backend is an express server. Register and dashboard pages include html forms, that post inputs to the backend.
+The webpages are EJS-templates located in the "views" folder. The register page is prefilled with names to speed up testing.
+The scripts for the frontend and the CSS file is provided in the "public" folder. 
+
+
 # To Dos and Ideas
 
 - Limit maximum amount of rounds and give a final view after completing a whole match
