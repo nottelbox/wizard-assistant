@@ -15,8 +15,8 @@ Access the webpage under "localhost:3000" in your browser and start playing a ro
 
 # Basic usage
 
-1. On the landing page, register 3-6 players with their names in the order of play and select the first dealer or choose to get a random first dealer.
-2. After hitting "Start Game", a dashboard appears which displays the dealer and prompts for inputs.
+1. On the landing page, register 3-6 players with their names in the order of play and select the first dealer or choose a random first dealer.
+2. After hitting "Start Game", a dashboard appears which displays the dealer's name and prompts for inputs.
 3. The dealer provides the cards.
 4. Insert all forecasts from the players using the yellow buttons at the top. Forbidden numbers disappear.
 5. Play the round.
