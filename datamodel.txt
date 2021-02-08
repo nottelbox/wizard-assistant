@@ -1,0 +1,16 @@
+players = [
+{
+name:Simon,
+round1:{
+	guess:2,
+	points:20
+	},
+round2:{...}
+}
+{...}
+]
+
+current round shows guesses
+
+player.length ist 3
+counter 0,1,2
