@@ -27,7 +27,7 @@ Access the webpage under "localhost:3000" in your browser and start playing a ro
 
 # To Dos and Ideas
 
--Limit maximum amount of rounds and give a final view after completing a whole match
--Enable the restart of a game
--Fix indentation of numbers in the dashboard
--individual sites for different clients, each for one player
+- Limit maximum amount of rounds and give a final view after completing a whole match
+- Enable the restart of a game
+- Fix indentation of numbers in the dashboard
+- individual sites for different clients, each for one player
