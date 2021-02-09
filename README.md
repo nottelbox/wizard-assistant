@@ -21,7 +21,7 @@ Access the webpage under "localhost:3000" in your browser and start playing a ro
 4. Insert all forecasts from the players using the yellow buttons at the top. Forbidden numbers disappear.
 5. Play the round.
 6. Insert all results from the round hitting yellow buttons at the top. Forbidden numbers disappear. The result from the dealer is not prompted and will be calculated.
-7. Check all displayed forecasts and results and delete if necessary with the red buttons. In this cases they are prompted again.
+7. Check all displayed forecasts and results and delete if necessary with the red buttons. In this case they are prompted again.
 8. Confirm the round with the green button. The points are calculated and saved in the backend. An updated version of the dashboard will be delivered.
 9. Repeat steps 3-8 until the final round.
 
